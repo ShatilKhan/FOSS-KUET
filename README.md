@@ -1,2 +1,10 @@
 # aws-cloud-club-kuet
-This is the official Github Repository for AWS Cloud Club at KUET. Find AWS Cloud Learning Resources here.
+Learn Cloud Computing with AWS Cloud Club KUET
+
+# About Us
+Join our [Official Meetup Group](https://www.meetup.com/aws-cloud-club-at-kuet/)
+
+Co-Captain: Abdullah Bin Habib
+
+Here we preserve a collection of AWS Learning Resources as well as opportunities in the cloud.
+Stay connected with us for excicting Swag & Certification Opportunities.
