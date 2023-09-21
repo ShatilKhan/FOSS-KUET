@@ -24,6 +24,7 @@ Here we share Azure learning resources , opportunities & Hackathons on Azure , O
 
 Ambassadors : Shahriar Shatil , Diganta Mojumder
 
+### Microsoft Learn Challenges 
 
-
+Microsoft frequently arranges Learn Challenges where you can skill up & get a free certification voucher for completing the Challenge! 
 
