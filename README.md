@@ -28,3 +28,4 @@ Ambassadors : Shahriar Shatil , Diganta Mojumder
 
 Microsoft frequently arranges Learn Challenges where you can skill up & get a free certification voucher for completing the Challenge! 
 
+[Azure AI Fundamentals Challenge](https://learn.microsoft.com/en-us/training/challenges?id=a31ac561-c46b-4c23-8714-b4e828f18dee&wt.mc_id=studentamb_248375)
