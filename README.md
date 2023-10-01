@@ -17,6 +17,9 @@ Stay connected with us for excicting Swag & Certification Opportunities.
 ### Cloud Quest
 [AWS Cloud Quest](https://aws.amazon.com/training/digital/aws-cloud-quest/) is the best place to get started on your cloud journey. Check out this free role playing game & learn the basics of cloud!
 
+### Deep Racer League
+Learn AI/ML through [AWS Deep Racer League](https://aws.amazon.com/deepracer/student/)
+
 
 ## Microsoft Learn Student Ambassadors KUET 
 
