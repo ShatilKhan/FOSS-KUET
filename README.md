@@ -40,5 +40,8 @@ Visit [Microsoft Learn](https://learn.microsoft.com/en-us/) to learn new skills!
 
 - [Hacktoberfest 2023](https://hacktoberfest.com/)
 
-# List of Open Source Programs
+# HackSquad
+HackSquad is a global team based open source event. 
+
+## List of Open Source Programs
 - [Awesom-Programs](https://github.com/ShatilKhan/Competitions-and-Programs-List)
