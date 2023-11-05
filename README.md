@@ -42,6 +42,7 @@ Visit [Microsoft Learn](https://learn.microsoft.com/en-us/) to learn new skills!
 
 # HackSquad
 HackSquad is a global team based open source event. 
+- [Hacksquad Site](https://www.hacksquad.dev/)
 
 ## List of Open Source Programs
 - [Awesom-Programs](https://github.com/ShatilKhan/Competitions-and-Programs-List)
