@@ -46,3 +46,8 @@ HackSquad is a global team based open source event.
 
 ## List of Open Source Programs
 - [Awesom-Programs](https://github.com/ShatilKhan/Competitions-and-Programs-List)
+
+## Open Source Research Programs
+- [Microsoft Reinforcement Learning Fest]()
+- [IBM Research]()
+- [Nvidia Research]()
