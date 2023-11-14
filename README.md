@@ -51,3 +51,4 @@ HackSquad is a global team based open source event.
 - [Microsoft Reinforcement Learning Fest]()
 - [IBM Research]()
 - [Nvidia Research]()
+- [Rust Fellowship]()
