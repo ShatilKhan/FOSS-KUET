@@ -52,3 +52,4 @@ HackSquad is a global team based open source event.
 - [IBM Research]()
 - [Nvidia Research]()
 - [Rust Fellowship]()
+- [AnitaB.org]()
